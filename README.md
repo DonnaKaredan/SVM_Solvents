@@ -172,3 +172,13 @@ When blood samples become available the following changes are required before ru
 Flanagan, A. R. & Glavin, F. G. (2025). Open-source Raman spectra of chemical compounds for active pharmaceutical ingredient development. *Scientific Data*, 12, 498. https://doi.org/10.1038/s41597-025-04848-6
 
 Jensen, E. A. et al. (2024). Label-free blood typing by Raman spectroscopy and artificial intelligence. *Advanced Materials Technologies*, 9, 2301462. https://doi.org/10.1002/admt.202301462
+
+## AI Tool Declaration
+
+This project was developed with assistance from Claude (Anthropic) as an AI coding and analysis assistant. Claude was used for:
+
+- Code development and debugging across the preprocessing and classification pipeline
+- Interpretation and explanation of results
+- Writing and editing of documentation
+
+All code was reviewed, tested, and validated by the author. All scientific decisions, experimental design choices and conclusions are the author's own.
