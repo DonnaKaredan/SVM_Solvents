@@ -18,7 +18,7 @@ The pipeline uses Principal Component Analysis (PCA) for dimensionality reductio
 
 ```
 ├── SVM_Solvents_Clean_v3.ipynb     # Main analysis notebook (sections 0–13)
-├── Solvent_preprocessing.ipynb     # Preprocessing pipeline — run this first
+├── Preprocessing Solvents.ipynb     # Preprocessing pipeline — run this first
 ├── raman_spectra_api_compounds.csv # Raw spectra (input to preprocessing)
 ├── raman_spectra_clean.csv         # Preprocessed spectra (output of preprocessing, input to main notebook)
 └── README.md                       # This file
